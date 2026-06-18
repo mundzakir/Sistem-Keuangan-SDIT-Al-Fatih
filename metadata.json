@@ -1,0 +1,6 @@
+{
+  "name": "SPP & Keuangan SDIT Al Fatih Baturaja",
+  "description": "Sistem informasi pembayaran SPP, manajemen data siswa, dan laporan keuangan sekolah SDIT Al Fatih Baturaja dengan notifikasi WhatsApp otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
